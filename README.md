@@ -16,4 +16,4 @@
   <a href="mailto:cristina1911@usp.br.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/anoca-cs/anoca-se/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/anoca-cs/anoca-cs/blob/output/github-contribution-grid-snake.svg)
