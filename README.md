@@ -13,7 +13,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoca-cs&theme=gruvbox_light&hide_border=false&&layout=compact"/>
 
  <a href="https://www.linkedin.com/in/cristina1911/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:cristina1911@usp.br.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cristina1911@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
  ![Snake animation](https://github.com/anoca-cs/anoca-cs/blob/output/github-contribution-grid-snake.svg)
