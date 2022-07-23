@@ -1,6 +1,6 @@
 ### Hi. You can call me Anoca.
 
-▪️ A university woman who drinks coffee to read all books and codes she wants 🤍
+▪️ A university woman who drinks coffee to read all books and codes she wants 🖤
 
 ▪️ Experience in financial and controlling business
 
